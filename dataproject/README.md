@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled a Analyzis of the Danish stock market and is foucusing on the OMXC 20 cap and the stock indexes concerning the financial, industrial and IT sectors. This clarifies the development of each sector, compared to the OMCX 20 and their volatility.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
