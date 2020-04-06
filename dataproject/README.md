@@ -9,7 +9,7 @@ This **loads two datasets**:
 1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
 2. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
 
-The data are downloaded from the API pydst.Dst, which gives acces to Statistic Denmark.
+The data are downloaded from the API pydst.Dst, which accesses Statistic Denmark's data.
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
