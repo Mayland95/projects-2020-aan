@@ -1,6 +1,6 @@
 # Model analysis project
 
-Our project is titled "XXX". The project concerns
+Our project is titled Profit maximizing. The project concerns profit maximizing under normal circumstances and under covid19.
 
 The **results** of the project can be seen from running [Model project.ipynb](Model project.ipynb).
 
